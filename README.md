@@ -2,5 +2,5 @@
 
 I am a Java Developer who makes plugins on SpigotMC / Minecraft
 
-[![OreMarket](https://github-readme-stats.vercel.app/api/pin/?username=OllieJW&repo=OreMarket)](https://github.com/OllieJW/OreMarket)
+[![Ore-Market](https://github-readme-stats.vercel.app/api/pin/?username=OllieJW&repo=Ore-Market)](https://github.com/OllieJW/Ore-Market)
 
